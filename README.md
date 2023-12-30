@@ -1,6 +1,5 @@
 # Multi-PDF-ChatBot-using-Mistral-7B-Instruct-
 
-# Multi-PDF ChatBot using Mistral-7B-Instruct :books:
 
 This Streamlit application demonstrates a Multi-PDF ChatBot powered by Mistral-7B-Instruct language model. The ChatBot allows users to ask questions about the content of uploaded PDF documents and generates conversational responses.
 
